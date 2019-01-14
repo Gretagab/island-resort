@@ -11,12 +11,7 @@ p {
   color: darkblue;
 }
 
-.pages {
-    background-color:#eeeeee;
-    display:inline;
-}
-.ulpages {
-    display: flex;
-    justify-content:space-around;
-    list-style-type:none;
+li {
+  font-size: 15px;
+  color: darkblue;
 }
