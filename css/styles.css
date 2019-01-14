@@ -1,0 +1,22 @@
+h1 {
+  font-size: 30px;
+  color: lightblue;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  color: darkblue;
+}
+
+.pages {
+    background-color:#eeeeee;
+    display:inline;
+}
+.ulpages {
+    display: flex;
+    justify-content:space-around;
+    list-style-type:none;
+}
